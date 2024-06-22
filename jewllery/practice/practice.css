@@ -1,0 +1,59 @@
+
+@media screen and (max-height: 1000px) {
+    .carousel-item {
+    height: 24rem;
+    }}
+ /* grid/ */
+.container-marketing{
+    background-color: beige;
+}
+/* footer */
+.footer{
+    height: 100%;
+    width: 140%;
+     background: linear-gradient(to right,  rgb(192, 178, 192)  ,#9d6b5a);
+     color: #fff;
+     font-size: 13px;
+     line-height: 20px;
+     color: white;
+     font-weight: bolder;
+     margin-right: 20%;
+ }
+ 
+.section{
+    width: 500%;
+} 
+/* gift session */
+/* .pp{
+    height: 400px;
+    width: 50%;
+}
+.pp-text{
+    padding-inline-start: 100%;
+    padding-left: 50%;
+    margin-bottom: 5%;
+    color: #0e0f0f;
+}
+.pp h1{
+    font-size: xx-large;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 500%;
+    padding-top: 100%;
+} */
+
+.g11 h2{
+    padding-bottom:50%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif    ;
+    font-size: xx-large;
+    font-weight: 900;
+    padding: 15%;
+    margin-bottom: 5%;
+    color: #050505;
+}
+.g11 p{
+   width: fit-content;
+  font-size: xx-large;
+  color: rgb(67, 29, 67);
+  
+}
